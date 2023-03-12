@@ -30,8 +30,8 @@ main:
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
-  - title: "TFS"
-    url: https://drive.google.com/drive/folders/1QhjiBHgaMZpz1jR46C_4l0DfzdZZiZnb?usp=sharing
+  # - title: "TFS"
+  #   url: https://drive.google.com/drive/folders/1QhjiBHgaMZpz1jR46C_4l0DfzdZZiZnb?usp=sharing
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
 
