@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "Who We Are"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: ""
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
