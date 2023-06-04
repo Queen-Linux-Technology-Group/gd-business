@@ -34,8 +34,8 @@ main:
   #   url: https://drive.google.com/drive/folders/1QhjiBHgaMZpz1jR46C_4l0DfzdZZiZnb?usp=sharing
   - title: "Photo Gallery"
     url: https://photos.app.goo.gl/BihHoUUUwTozDSJ8A
-  - title: "Partner Twitter Feeds"
-    url: /twitterfeeds/
+  # - title: "Partner Twitter Feeds"
+  #   url: /twitterfeeds/
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
 

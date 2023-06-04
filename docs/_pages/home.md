@@ -41,16 +41,16 @@ feature_row:
 ### Some of our Clients
 
 <marquee>
-<img class="corplogos" src="/assets/images/corplogos/mcdonalds.png">
-<img class="corplogos" src="/assets/images/corplogos/mckesson.png">
-<img class="corplogos" src="/assets/images/corplogos/acadian.png">
-<img class="corplogos" src="/assets/images/corplogos/family dollar.png">
-<img class="corplogos" src="/assets/images/corplogos/home depot.png">
-<img class="corplogos" src="/assets/images/corplogos/ashley stewart.webp">
-<img class="corplogos" src="/assets/images/corplogos/walmart.webp">
+<img class="corplogos" src="assets/images/corplogos/mcdonalds.png">
+<img class="corplogos" src="assets/images/corplogos/mckesson.png">
+<img class="corplogos" src="assets/images/corplogos/acadian.png">
+<img class="corplogos" src="assets/images/corplogos/family dollar.png">
+<img class="corplogos" src="assets/images/corplogos/home depot.png">
+<img class="corplogos" src="assets/images/corplogos/ashley stewart.webp">
+<img class="corplogos" src="assets/images/corplogos/walmart.webp">
 </marquee>
 
 ### Certifications
 
-<img class="corplogos" src="/assets/images/certlogos/womenowned.png">
-<img class="corplogos" src="/assets/images/certlogos/minorityowned.png">
+<img class="corplogos" src="assets/images/certlogos/womenowned.png">
+<img class="corplogos" src="assets/images/certlogos/minorityowned.png">
