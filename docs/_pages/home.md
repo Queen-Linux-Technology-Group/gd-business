@@ -54,3 +54,5 @@ feature_row:
 
 <img class="corplogos" src="assets/images/certlogos/womenowned.png">
 <img class="corplogos" src="assets/images/certlogos/minorityowned.png">
+
+{% include tweets-row.html %}

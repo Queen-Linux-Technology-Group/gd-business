@@ -27,3 +27,5 @@ Supported Operating Systems: Android, iOS, Linux, Mac OS X, Mac OS X Server, Mob
 Location Types Served: Commercial, Government, Education 
 
 Additional Qualifications: Cisco Certified Network Associate, Comptia Healthcare IT Technician, Microsoft Certified Technology Specialist, Microsoft Certified Solutions Associate, Microsoft Certified IT Professional (Windows 7)
+
+{% include tweets-row.html %}

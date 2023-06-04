@@ -332,3 +332,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+imagesurl: "assets/images/WorkPhotos/"
+thumbsurl: "/assets/images/WorkThumbs/"

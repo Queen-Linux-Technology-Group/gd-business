@@ -1,4 +1,5 @@
 ---
+layout: gallery-layout
 permalink: /twitterfeeds/
 title: "Partner Twitter Feeds"
 excerpt: ""
@@ -7,12 +8,14 @@ toc: false
 # published: false
 ---
 
-<a class="twitter-timeline" href="https://twitter.com/thenextweb?ref_src=twsrc%5Etfw">Tweets by thenextweb</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- <a class="twitter-timeline" href="https://twitter.com/thenextweb?ref_src=twsrc%5Etfw">Tweets by thenextweb</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <a class="twitter-timeline" href="https://twitter.com/Recode?ref_src=twsrc%5Etfw">Tweets by Recode</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <a class="twitter-timeline" href="https://twitter.com/TechCrunch?ref_src=twsrc%5Etfw">Tweets by TechCrunch</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<a class="twitter-timeline" href="https://twitter.com/engadget?ref_src=twsrc%5Etfw">Tweets by engadget</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/engadget?ref_src=twsrc%5Etfw">Tweets by engadget</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
-<a class="twitter-timeline" href="https://twitter.com/SmartPlanet?ref_src=twsrc%5Etfw">Tweets by SmartPlanet</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="220" data-height="200" data-dnt="true" href="https://twitter.com/SmartPlanet?ref_src=twsrc%5Etfw">Tweets by SmartPlanet</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<a class="twitter-timeline" data-width="220" data-height="200" data-dnt="true" href="https://twitter.com/thenextweb?ref_src=twsrc%5Etfw">Tweets by thenextweb</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
