@@ -40,7 +40,7 @@ feature_row:
 
 ### Some of our Clients
 
-<marquee>
+<marquee loop="infinite">
 <img class="corplogos" src="assets/images/corplogos/mcdonalds.png">
 <img class="corplogos" src="assets/images/corplogos/mckesson.png">
 <img class="corplogos" src="assets/images/corplogos/acadian.png">
