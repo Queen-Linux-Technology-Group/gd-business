@@ -334,4 +334,4 @@ compress_html:
     envs: development
 
 imagesurl: "assets/images/WorkPhotos/"
-thumbsurl: "/assets/images/WorkThumbs/"
+thumbsurl: "/gd-business/assets/images/WorkThumbs/"
