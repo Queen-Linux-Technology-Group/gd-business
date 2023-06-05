@@ -49,7 +49,6 @@ feature_row:
 <img class="corplogos" src="assets/images/corplogos/walmart.webp">
 </div>
 
-### Certifications
 <div class="certrow">
 <img class="corplogos" src="assets/images/certlogos/womenowned.png">
 <img class="corplogos" src="assets/images/certlogos/minorityowned.png">
