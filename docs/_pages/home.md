@@ -50,6 +50,7 @@ feature_row:
 <img class="corplogos" src="assets/images/corplogos/whole foods.png">
 <img class="corplogos" src="assets/images/corplogos/dollar general.jpg">
 <img class="corplogos" src="assets/images/corplogos/marshalls.png">
+<img class="corplogos" src="assets/images/corplogos/public storage.png">
 </div>
 
 <br>
