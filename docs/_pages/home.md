@@ -39,20 +39,20 @@ feature_row:
 {% include feature_row %}
 
 ### Some of our Clients
-
-<marquee loop="infinite">
+<div class="corprow">
 <img class="corplogos" src="assets/images/corplogos/mcdonalds.png">
 <img class="corplogos" src="assets/images/corplogos/mckesson.png">
 <img class="corplogos" src="assets/images/corplogos/acadian.png">
 <img class="corplogos" src="assets/images/corplogos/family dollar.png">
 <img class="corplogos" src="assets/images/corplogos/home depot.png">
-<img class="corplogos" src="assets/images/corplogos/ashley stewart.webp">
+<img class="corplogos" src="assets/images/corplogos/ashley stewart.png">
 <img class="corplogos" src="assets/images/corplogos/walmart.webp">
-</marquee>
+</div>
 
 ### Certifications
-
+<div class="certrow">
 <img class="corplogos" src="assets/images/certlogos/womenowned.png">
 <img class="corplogos" src="assets/images/certlogos/minorityowned.png">
+</div>
 
 {% include tweets-row.html %}
