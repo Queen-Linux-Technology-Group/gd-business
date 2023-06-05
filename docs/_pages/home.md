@@ -47,6 +47,9 @@ feature_row:
 <img class="corplogos" src="assets/images/corplogos/home depot.png">
 <img class="corplogos" src="assets/images/corplogos/ashley stewart.png">
 <img class="corplogos" src="assets/images/corplogos/walmart.webp">
+<img class="corplogos" src="assets/images/corplogos/whole foods.png">
+<img class="corplogos" src="assets/images/corplogos/dollar general.jpg">
+<img class="corplogos" src="assets/images/corplogos/marshalls.png">
 </div>
 
 <br>
