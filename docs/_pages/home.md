@@ -59,6 +59,6 @@ feature_row:
 
 <br>
 <div class="certrow">
-<img class="corplogos" src="assets/images/certlogos/womenowned.png">
-<img class="corplogos" src="assets/images/certlogos/minorityowned.png">
+<img class="certlogos" src="assets/images/certlogos/womenowned.png">
+<img class="certlogos" src="assets/images/certlogos/minorityowned.png">
 </div>
