@@ -49,9 +49,9 @@ feature_row:
 <img class="corplogos" src="assets/images/corplogos/walmart.webp">
 </div>
 
+{% include tweets-row.html %}
+
 <div class="certrow">
 <img class="corplogos" src="assets/images/certlogos/womenowned.png">
 <img class="corplogos" src="assets/images/certlogos/minorityowned.png">
 </div>
-
-{% include tweets-row.html %}
