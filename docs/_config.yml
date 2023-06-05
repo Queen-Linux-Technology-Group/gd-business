@@ -92,7 +92,7 @@ analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          : "G-NY157Q3KH5" # Replace this with your ID, or delete
-    anonymize_ip         : true
+    anonymize_ip         : false
 
 
 # Site Author
